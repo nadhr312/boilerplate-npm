@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"author": "Nadhira Ghasani"
+	"author": "Nadhira Ghasani",
+	"description": "A project to learn about backend"
 }
