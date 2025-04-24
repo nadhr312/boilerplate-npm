@@ -14,5 +14,6 @@
 	"author": "Nadhira Ghasani",
 	"description": "A project to learn about backend",
 	"keywords": ["backend", "freecodecamp","project"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
